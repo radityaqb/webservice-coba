@@ -23,4 +23,4 @@ RUN go install -v ./...
 EXPOSE 8181
 
 # Run the executable
-CMD ["go-docker"]
+CMD ["./webservice-coba"]
